@@ -23,7 +23,7 @@ export const Footer = () => {
                 rel="noopener noreferrer"
                 className="font-semibold text-foreground hover:text-primary transition-colors inline-flex items-center gap-1"
               >
-                Gyanesh Vishwakarma
+                Gyanesh Vishwakarma and Krishna Chourasia
                 <Linkedin className="h-3 w-3" />
               </a>
             </p>
